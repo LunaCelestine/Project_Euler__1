@@ -5,7 +5,6 @@ Created on Sat May 18 16:48:29 2019
 @author: AdrielleTheSlayer
 """
 
-print("Number of Processers:", mp.cpu_count())
 
 max = 1000
 
